@@ -8,9 +8,9 @@ services:
     branch: main
     autoDeploy: false
     envVars:
-      - key: BOT_TOKEN
+      - key: 7299967575:AAH50H1XNwICHUFnyuz5Vtb6KDUSLZkd3bs
         sync: false
-      - key: API_ID
+      - key: 29224205
         sync: false
       - key: API_HASH
         sync: false
